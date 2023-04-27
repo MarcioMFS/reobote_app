@@ -1,0 +1,1 @@
+As funcionalidades do APP consiste em apresentar ao cliente informações sobre seus filhos, data de nascimento, data de inscrição, estado de cadastro, notas/habilidades desenvolvidas.
